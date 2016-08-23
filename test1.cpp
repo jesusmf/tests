@@ -3,7 +3,8 @@
 using namespace std;
 
 int main () {
-  cout << "ASDFJJJJJJ" << endl;
-  
+  cout << "RRRRFF" << endl;
+    cout << "RRRRddFF" << endl;
+
   return 0;
 }
